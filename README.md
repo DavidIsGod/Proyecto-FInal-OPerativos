@@ -149,4 +149,5 @@ requisito. Esto es lo que conviene saber para la sustentación.
 ---
 
 ## Equipo
-- _(Completar con los nombres del equipo — máximo 3 personas)_
+- Santiago Morales
+- David Troya
