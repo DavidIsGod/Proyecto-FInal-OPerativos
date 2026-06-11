@@ -1,0 +1,3 @@
+# Artefactos de pruebas de backup
+backup_*/
+*.tmp
